@@ -1,10 +1,10 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main(){
 	
-	printf("Salve, mundo. Em C.");
+	printf("oi. mundo.");
 	
-	printf("add .\file, commit -m "comentario", push")
+	printf("add .\file, commit -m comentario entre aspas, push");
 	
 	return 0;
 }
